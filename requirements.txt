@@ -14,7 +14,7 @@ dnspython>=2.1.0
     # via FuzzingTool (setup.py)
 idna>=2.10
     # via requests
-requests>=2.25.1
+requests>=2.32.0
     # via FuzzingTool (setup.py)
 soupsieve>=2.2.1
     # via beautifulsoup4
